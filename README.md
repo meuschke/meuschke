@@ -1,6 +1,6 @@
 ### Hi there, my name is Toni 👋
 
-👨‍💻 I am a JavaScript Freelancer - React.js, Vue.js, Node.js
+I am a JavaScript Freelancer - React.js, Vue.js, Node.js
 
 
 ## 👨‍💻 Technical Skills
